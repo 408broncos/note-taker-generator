@@ -12,7 +12,7 @@
 
 ## Description 
 
-[Visit the Deployed Site]()
+[Visit the Deployed Site](https://cryptic-inlet-51137.herokuapp.com/notes)
 
 For this project I was given a task to create a note taking generator. For this ask it was a little bit more simple than my previous assignments but a lot more steps to even get the application started. In this assignment we were given starter codes to help us get started, this included: an index.js, index and note htmls, json packages and a CSS file. Our task was to use what we were given and create a deployed note taking generator that gives the user the ability to add a title to their notes and a save and add button to store their notes and create new ones.
 
