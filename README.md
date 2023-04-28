@@ -19,6 +19,7 @@ For this project I was given a task to create a note taking generator. For this 
 ## Markdown
 
 
+![Untitled_ Apr 27, 2023 9_27 PM](https://user-images.githubusercontent.com/126821868/235054278-273dbc9e-7c23-4c0b-ad0c-1890e7490ce4.gif)
 
 
 
